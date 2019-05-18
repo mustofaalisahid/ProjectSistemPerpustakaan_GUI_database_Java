@@ -9,3 +9,5 @@ Untuk konten yang ada di dalam program adalah :
 6. Terdapat Form Login sebagai Petugas perpustakaan dan Admin
 7. Jika login sebagai Petugas, maka terdapat Form Tambah dan edit anggota mahasiswa, Form Edit dan Tambah buku, dan Form Cetak Laporan ke dalam MS.Excel
 8. Jika login sebagai admin, maka terdapat Form Tambah / edit Petugas, Form Tambah / edit anggota mahasiswa, Form Tambah / edit buku.
+
+Project ini menggunakan GUI dan database beserta relasi dari database
